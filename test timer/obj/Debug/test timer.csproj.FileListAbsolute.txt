@@ -1,0 +1,10 @@
+C:\Users\ar00090132\source\repos\test timer\test timer\bin\Debug\test timer.exe.config
+C:\Users\ar00090132\source\repos\test timer\test timer\bin\Debug\test timer.exe
+C:\Users\ar00090132\source\repos\test timer\test timer\bin\Debug\test timer.pdb
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\test timer.csprojAssemblyReference.cache
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\test_timer.Form1.resources
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\test_timer.Properties.Resources.resources
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\test timer.csproj.GenerateResource.cache
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\test timer.csproj.CoreCompileInputs.cache
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\test timer.exe
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\test timer.pdb

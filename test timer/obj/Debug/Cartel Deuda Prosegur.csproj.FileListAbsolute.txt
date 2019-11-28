@@ -1,0 +1,10 @@
+C:\Users\ar00090132\source\repos\test timer\test timer\bin\Debug\Cartel Deuda Prosegur.exe.config
+C:\Users\ar00090132\source\repos\test timer\test timer\bin\Debug\Cartel Deuda Prosegur.exe
+C:\Users\ar00090132\source\repos\test timer\test timer\bin\Debug\Cartel Deuda Prosegur.pdb
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\Cartel Deuda Prosegur.csprojAssemblyReference.cache
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\test_timer.Form1.resources
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\Cartel_Deuda.Properties.Resources.resources
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\Cartel Deuda Prosegur.csproj.GenerateResource.cache
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\Cartel Deuda Prosegur.csproj.CoreCompileInputs.cache
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\Cartel Deuda Prosegur.exe
+C:\Users\ar00090132\source\repos\test timer\test timer\obj\Debug\Cartel Deuda Prosegur.pdb
